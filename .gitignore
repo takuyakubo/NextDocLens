@@ -1,2 +1,6 @@
 # ingnore virtual environment
 venv/
+# ignore sqlite database
+db.sqlite3
+# ignore pycache
+__pycache__/
